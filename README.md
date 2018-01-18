@@ -1,3 +1,3 @@
 # IEPSCF-Dev
 IEPSCF development repository
-Edited by me
+Edited by Eternion
